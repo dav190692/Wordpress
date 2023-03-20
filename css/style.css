@@ -4,6 +4,8 @@
     padding: 0;
 }
 
+
+
 .promo {
     height: 800px;
     background: url('../img/first_motitor/main_picture.jpg') center center /cover no-repeat;
@@ -40,9 +42,9 @@ h1 {
 .title {
 
     color: #f9bf3b;
-    font-family: "Roboto - Black";
+    /* font-family: "Roboto Black", sans-serif; */
     font-size: 41px;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
     letter-spacing: normal;
     line-height: 24px;
