@@ -3,10 +3,17 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< Updated upstream
 html {
     font-family: 'Roboto', sans-serif;
 }
 
+=======
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+>>>>>>> Stashed changes
 
 .promo {
     height: 800px;
@@ -46,12 +53,14 @@ h1 {
     color: #f9bf3b;
     /* font-family: "Roboto Black", sans-serif; */
     font-size: 41px;
-    font-weight: 900;
+    font-weight: 800;
     font-style: normal;
     letter-spacing: normal;
     line-height: 24px;
     text-align: center;
     text-transform: uppercase;
+    /* font-style: italic; */
+    /* font-display: swap; */
 }
 
 
